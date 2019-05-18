@@ -1,4 +1,5 @@
 # myLeetCodePractice
+
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=zywkloo&leetcode_badge_style=Solved/Total-{{.solved_question}}/{{.all_question}}-green.svg)](https://leetcode.com/problemset/all/?difficulty=Easy)
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=zywkloo&refresh=true)](https://github.com/Chyroc/leetcode-badge)
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=zywkloo&leetcode_badge_style=Leetcode%20|%20Ranking-{{.ranking}}-green.svg)](https://github.com/Chyroc/leetcode-badge)
