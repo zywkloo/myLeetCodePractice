@@ -36,3 +36,27 @@ var numJewelsInStones = function(J, S) {
     }
     return count
 };
+
+/**
+ * @param {string} J
+ * @param {string} S
+ * @return {number}
+ */
+var numJewelsInStones2 = function(J, S) {
+    let count = 0;
+    
+    for (let s of S) {
+        J.indexOf(s) > -1 && count++;
+    }
+    
+    return count;
+};
+
+/**
+ * @param {string} J
+ * @param {string} S
+ * @return {number}
+ */
+var numJewelsInStones3 = function(J, S) {
+    return [...S].reduce((count, stone) => J.includes(stone) ? ++count : count, 0);
+};
