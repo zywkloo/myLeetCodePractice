@@ -7,4 +7,3 @@
 
 Main language: Javascript
 
-Current focus: [Easy](https://leetcode.com/problemset/all/?difficulty=Easy)
