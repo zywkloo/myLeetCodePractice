@@ -8,3 +8,4 @@
 Others' Interview Exp:
 [Amazon 1](https://leetcode.com/discuss/interview-experience/534905/Amazon-or-SDE2-or-Seattle-or-Feb-2020-Offer)
 
+[Amazon Newgrad](https://leetcode.com/discuss/interview-experience/499466/Amazon-or-SDE1-or-Canada-or-Feb-2020-Waitlist)
