@@ -14,3 +14,5 @@ Others' Interview Exp:
 [Amazon Newgrad Rej1](https://leetcode.com/discuss/interview-question/449391/Amazon-or-SDE1-New-Grad-(Canada)-Video-Interview.-3-Rounds-45-min-each.-(Rejected))
 
 [Amazon Question Combo-Free](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+
+[Best Posts in 2019](https://leetcode.com/discuss/general-discussion/459286/Best-Posts-of-2019)
