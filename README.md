@@ -15,4 +15,6 @@ Others' Interview Exp:
 
 [Amazon Question Combo-Free](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
 
+[how I found-a-new-bay-area-faang-job-in 1 3/4 months](https://leetcode.com/discuss/interview-experience/552835/how-i-found-a-new-bay-area-faang-job-in-1-34-months)
+
 [Best Posts in 2019](https://leetcode.com/discuss/general-discussion/459286/Best-Posts-of-2019)
