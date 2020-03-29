@@ -47,3 +47,9 @@ class Solution {
         return res;
     }
 }
+
+// This is O(n^2) solution
+// quoting from other source " using .size() on one of the views of the set is O(n), because internally, the implementation doesn't know the size of the subsets (only the size of the complete set), so, in order to compute it, it iterates the whole headset/tailset/subset and counts elements one by one. This is one big limitation of TreeSet/TreeMap, because they can't be used to calculate the lengths of prefix/suffix sets efficiently " see the author comment on the first answer to this question on stackoverflow
+// https://stackoverflow.com/questions/52624761/do-java-methods-headset-and-tailset-in-java-class-treeset-work-in-logn-time
+// see the second answer here
+// https://stackoverflow.com/questions/34427758/treeset-number-of-elements-less-than-a-value-efficiently
