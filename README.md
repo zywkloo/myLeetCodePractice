@@ -5,7 +5,7 @@
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=zywkloo&leetcode_badge_style=Leetcode%20|%20Ranking-{{.ranking}}-green.svg)](https://github.com/Chyroc/leetcode-badge)
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=zywkloo&leetcode_badge_style=Leetcode%20|%20Submission-{{.accepted_submission_rate}}-{{%20if%20le%20.accepted_submission_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}yellow{{%20else%20}}green{{%20end%20}}.svg&refresh=true)](https://github.com/Chyroc/leetcode-badge)
 
-Others' Interview Exp:
+### General' Interview Exp:
 
 [Amazon 1](https://leetcode.com/discuss/interview-experience/534905/Amazon-or-SDE2-or-Seattle-or-Feb-2020-Offer)
 
@@ -17,4 +17,13 @@ Others' Interview Exp:
 
 [how I found-a-new-bay-area-faang-job-in 1 3/4 months](https://leetcode.com/discuss/interview-experience/552835/how-i-found-a-new-bay-area-faang-job-in-1-34-months)
 
+## System Design
+
+https://github.com/resumejob/system-design-algorithms
+
+## OOP Design
+
+https://leetcode.com/discuss/interview-question/object-oriented-design/488544/OOD-Notification-System
+
+## Summary 
 [Best Posts in 2019](https://leetcode.com/discuss/general-discussion/459286/Best-Posts-of-2019)
