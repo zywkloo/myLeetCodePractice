@@ -17,6 +17,8 @@
 
 [how I found-a-new-bay-area-faang-job-in 1 3/4 months](https://leetcode.com/discuss/interview-experience/552835/how-i-found-a-new-bay-area-faang-job-in-1-34-months)
 
+https://leetcode.com/discuss/interview-experience/559682/amazon-alexa-skills-sde-1-march-offer
+
 ## System Design
 
 https://github.com/resumejob/system-design-algorithms
