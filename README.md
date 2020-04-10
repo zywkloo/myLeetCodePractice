@@ -15,14 +15,15 @@
 
 [A SDE1 20Feb CA](https://leetcode.com/discuss/interview-question/449391/Amazon-or-SDE1-New-Grad-(Canada)-Video-Interview.-3-Rounds-45-min-each.-(Rejected))
 
+[A SDE1 20MAR](https://leetcode.com/discuss/interview-experience/570709/amazon-sde-1-virtual-onsite-status-pending)
+
+[A SDE1 20MAR Seattle](https://leetcode.com/discuss/interview-experience/559682/amazon-alexa-skills-sde-1-march-offer)
+
 [A SDE1 20APR](https://leetcode.com/discuss/interview-experience/568757/amazon-sde1-apr-2020-offer-virtual-onsite)
-[A SDE1 20MAR]https://leetcode.com/discuss/interview-experience/570709/amazon-sde-1-virtual-onsite-status-pending
 
 [A Question Combo-Free](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
 
 [how I found-a-new-bay-area-faang-job-in 1 3/4 months](https://leetcode.com/discuss/interview-experience/552835/how-i-found-a-new-bay-area-faang-job-in-1-34-months)
-
-[A SDE1 20MAR]https://leetcode.com/discuss/interview-experience/559682/amazon-alexa-skills-sde-1-march-offer
 
 ## System Design
 
