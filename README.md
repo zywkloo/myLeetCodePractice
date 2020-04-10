@@ -15,7 +15,7 @@
 
 [A SDE1 20Feb CA](https://leetcode.com/discuss/interview-question/449391/Amazon-or-SDE1-New-Grad-(Canada)-Video-Interview.-3-Rounds-45-min-each.-(Rejected))
 
-[A SDE1 20MAR](https://leetcode.com/discuss/interview-experience/570709/amazon-sde-1-virtual-onsite-status-pending)
+[A SDE1 20MAR India](https://leetcode.com/discuss/interview-experience/570709/amazon-sde-1-virtual-onsite-status-pending)
 
 [A SDE1 20MAR Seattle](https://leetcode.com/discuss/interview-experience/559682/amazon-alexa-skills-sde-1-march-offer)
 
