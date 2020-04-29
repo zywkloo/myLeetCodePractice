@@ -21,7 +21,7 @@
 
 [A SDE1 20APR](https://leetcode.com/discuss/interview-experience/568757/amazon-sde1-apr-2020-offer-virtual-onsite)
 
-[A SDE1 20MAR Seattle 100Q](https://leetcode.com/discuss/interview-experience/599592/amazon-sde1-offer-experience-lessons-learned）
+[A SDE1 20MAR Seattle 100q](https://leetcode.com/discuss/interview-experience/599592/amazon-sde1-offer-experience-lessons-learned)
 
 [A Question Combo-Free](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
 
