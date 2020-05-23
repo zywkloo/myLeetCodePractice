@@ -27,6 +27,7 @@
 
 [how I found-a-new-bay-area-faang-job-in 1 3/4 months](https://leetcode.com/discuss/interview-experience/552835/how-i-found-a-new-bay-area-faang-job-in-1-34-months)
 
+[A SDE1 20MAY Seattle rej](https://leetcode.com/discuss/interview-experience/642725/amazon-sde1-seattle-may-2020-rejected)
 ## System Design
 
 https://github.com/resumejob/system-design-algorithms
