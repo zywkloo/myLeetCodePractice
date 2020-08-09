@@ -1,4 +1,4 @@
-        Path Finding in Graphs: An Example
+# Path Finding in Graphs: An Example
 
 Refer to pages 217-219 of Bratko (3rd edition). The sample material
 can also be found in the 2nd edition.
